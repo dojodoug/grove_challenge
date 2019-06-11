@@ -9,9 +9,10 @@ This application is written in Ruby. Please refer to the [Ruby docs](https://www
 
 # Execution
 
-To execute this program open the terminal and navigate to the location where you have saved the find_store.rb file. Then run find_store.rb along with any of the options shown below. At a minimum an address or a zip code is required when running the file.
-Examples: ruby find_store.rb --address='1770 Union St, San Francisco, CA 94123'
-          ruby find_store.rb --zip=94115 --units=km
+To execute this program open the terminal and navigate to the location where you have saved the find_store.rb file. Then run find_store.rb along with any of the options shown below. At a minimum an address or a zip code is required when running the file.\
+Examples:\
+`ruby find_store.rb --address='1770 Union St, San Francisco, CA 94123'`\
+`ruby find_store.rb --zip=94115 --units=km`
 
 ```
 Usage:
