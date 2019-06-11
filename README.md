@@ -4,7 +4,8 @@ This challenge creates a command-line application that uses a tabular dataset fo
 
 # Requirements
 
-This application is written in Ruby. Please refer to the [Ruby docs](https://www.ruby-lang.org/en/documentation/installation/) if you will need to install Ruby on your own machine. This application also utilizes several Ruby gems: [docopt](https://github.com/docopt/docopt.rb), [csv](https://github.com/ruby/csv), [geocoder](http://www.rubygeocoder.com), [json](https://github.com/ruby/json). To install these gems you will need to run the follow command in your terminal: `gem install docopt csv geocoder json`
+This application is written in Ruby. Please refer to the [Ruby docs](https://www.ruby-lang.org/en/documentation/installation/) if you will need to install Ruby on your own machine. This application also utilizes several Ruby gems: [docopt](https://github.com/docopt/docopt.rb), [csv](https://github.com/ruby/csv), [geocoder](http://www.rubygeocoder.com), and [json](https://github.com/ruby/json). To install these gems you will need to run the following command in your terminal: 
+`gem install docopt csv geocoder json`
 
 # Execution
 
